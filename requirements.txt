@@ -1,0 +1,10 @@
+requests
+python-whois
+pyOpenSSL
+cryptography
+flask
+python-dotenv
+validators
+beautifulsoup4
+lxml
+pytest
